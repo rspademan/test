@@ -1,4 +1,5 @@
 <%
+' git test
 	dim objconn
 	set objconn = server.CreateObject ("ADODB.connection")
 
